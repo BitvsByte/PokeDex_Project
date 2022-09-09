@@ -1,3 +1,8 @@
+<h1 align="center"> javaScript Snake Game </h1>
+<p align="left">
+   <img width="700" height="333" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png">
+   </p>
+
 ## Description
 
 Project belonging to a school exercise where we put into practice the use of REACT.JS and a POKEAPI for the creation of different Pokemon Cards. As you can see, a group of Pokemons is requested to the API, when we click on Next or Prev we go forward calling another group or we go back. In the future it is planned to introduce a customer database to show some private routes. Currently the user can subscribe and receive a confirmation email.
