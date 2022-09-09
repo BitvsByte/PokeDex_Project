@@ -1,0 +1,36 @@
+.btn__style{
+    all:unset;
+
+}
+.btn__style:hover{
+    cursor:pointer;
+
+}
+
+
+.input__style {
+    border:none;
+    border-bottom: 1px solid goldenrod;
+    background-color: transparent;
+    margin-left: 40px;
+    height: 50px;
+    width: 359px; 
+
+    
+}
+::placeholder {
+     color: rgb(237, 237, 251); 
+}
+
+.label__style {
+    width: 60px;
+    color:aliceblue;
+
+
+}
+.forma__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

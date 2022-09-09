@@ -1,0 +1,42 @@
+.hola__que__tal{
+    display:flex;
+    flex-wrap: wrap;
+    /* background-image: url('../../assets/img/super.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%; */
+}
+.header__prevnext__btn{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    display: flex;
+
+
+
+}
+.prevnext__btn{
+    background-color: #007bff;
+    color: white;
+    font-family: sans-serif;
+    width: 72px;
+    height: 47px;
+    border-radius: 10px;
+    box-shadow: 28px 16px 22px -1px rgb(0 0 0 / 71%);
+    display: flex;
+    
+    
+    justify-content: space-around;
+    align-items: center;
+
+
+
+}
+.prevnext__btn__container{
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    /* align-content: space-around; */
+    justify-content: space-around;
+
+}

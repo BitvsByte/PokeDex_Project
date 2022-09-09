@@ -1,0 +1,115 @@
+.pokecard__container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 142px;
+    margin-bottom: 200px;
+    /* perspective: 1500px;
+    perspective-origin: top; */
+    width: auto;
+
+}
+.left__side{
+    
+    width: 398px;
+    display: flex;
+    flex-direction: column;
+    transform: rotateY(29deg);
+    padding-top: 100px;
+}
+.left_states1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
+.left_states2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
+.left_states3{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px; 
+    
+}
+.left_states4{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px; 
+
+}
+.left_states5{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
+
+
+.foto{
+    width: 547px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-around;
+    justify-content: center;
+    font-family: 'Pokemon';
+    /* border-block-width: initial; */
+    border: 1px solid black;
+    box-shadow: 19px -7px 30px -5px #000000;
+    border-radius: 20px;
+    /* perspective: 1500px;
+    perspective-origin: top; */
+    background: rgb(34,193,195);
+    background: linear-gradient(121deg, rgba(34,193,195,1) 0%, rgba(253,236,45,1) 100%);
+    background-size: cover;
+
+    
+
+}
+.foto:hover{
+
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+    
+}
+
+.pokename__details{
+
+}
+.img__pokemon_details{
+
+}
+.right_state{
+    
+    
+    width: 398px;
+    transform: rotateY(329deg);
+    transform-style: preserve-3d;
+    display: flex;
+    padding-top: 100px;
+
+
+
+}
+.status__details{
+    margin-right: 58px;
+
+
+}
+.bottom__stat{
+
+}
+.letters{
+    color:blanchedalmond;
+    font-family: 'Pokemon';
+
+}
+.titules{
+    color: yellowgreen;
+    font-family: 'Pokemon';
+
+}
